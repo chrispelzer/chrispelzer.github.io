@@ -5,16 +5,6 @@
     <link>https://chrispelzer.github.io/</link>
     <description>Recent content on Chris Pelzer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 28 Dec 2020 05:14:24 -0500</lastBuildDate><atom:link href="https://chrispelzer.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://chrispelzer.github.io/posts/my-first-post/</link>
-      <pubDate>Mon, 28 Dec 2020 05:14:24 -0500</pubDate>
-      
-      <guid>https://chrispelzer.github.io/posts/my-first-post/</guid>
-      <description>This is my first post</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://chrispelzer.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
